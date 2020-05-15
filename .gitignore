@@ -1,0 +1,5 @@
+env
+Тестовое задание
+.vscode
+*.pyc
+__pycache__

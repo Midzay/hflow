@@ -1,0 +1,9 @@
+[API_CONFIG]
+endpoint = https://dev-100-api.huntflow.ru/
+accounts_id = accounts
+get_status = vacancy/statuses
+get_list_vacancy = vacancies
+post_add_in_base =  applicants
+post_add_on_vacancy = applicants/{applicant_id}/vacancy
+get_all_applicants =applicants
+post_upload_file = upload
